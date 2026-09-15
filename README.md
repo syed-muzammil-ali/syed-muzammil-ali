@@ -6,7 +6,7 @@ I build practical digital systems that help businesses manage sales, inventory, 
 
 🚀 Founder of Nanogramics
 
-🏭 Building Nanogramics ERP Cloud for garment manufacturers
+🏭 Building Nanogramics ERP garment manufacturers
 
 🧾 Developing modern POS and inventory management systems
 
